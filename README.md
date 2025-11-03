@@ -9,6 +9,12 @@ A **Chatbot** agent, using google Gemini API and Streamlit.
 - Reads input from the user.  
 - Outputs the response from the Google API.
 
+## 🚀 Live App
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatagent-by-hariom.streamlit.app/)
+
+---
+
 ## ⚙️ How to Run
 
 ### 1. Clone the Repository
@@ -50,6 +56,10 @@ $ http://localhost:8501
   ![Chat Agent Error Handling](assets/error_handling.png)
   
 
+
+## 🙏 Thanks
+
+Built with ❤️ using [Streamlit](https://streamlit.io/)
 
 
 
